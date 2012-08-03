@@ -1,5 +1,5 @@
 lua-ios-library
 ===============
 
-lua for ios library(xcode project).
+lua for ios(iphone ipad) library(xcode project).
 cissusnar@gmail.com
