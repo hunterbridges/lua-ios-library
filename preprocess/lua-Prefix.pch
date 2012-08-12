@@ -2,8 +2,9 @@
 // Prefix header for all source files of the 'lua' target in the 'lua' project
 //
 
+#define LUA_COMPAT_ALL
+#define LUA_USE_MACOSX
+
 #ifdef __OBJC__
-    #define LUA_COMPAT_ALL
-    #define LUA_USE_MACOSX
     #import <Foundation/Foundation.h>
 #endif
